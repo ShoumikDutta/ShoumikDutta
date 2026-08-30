@@ -1,16 +1,92 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ShoumikDutta/ShoumikDutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `shoumik@github ~ $ whoami`
 
-Here are some ideas to get you started:
+### Information Engineering · Data & BI · AI Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building practical systems that turn messy data into reliable decisions.
+
+[![Profile views](https://komarev.com/ghpvc/?username=ShoumikDutta&label=PROFILE%20VIEWS&color=00bfa6&style=flat-square)](https://github.com/ShoumikDutta)
+[![GitHub followers](https://img.shields.io/github/followers/ShoumikDutta?label=FOLLOWERS&style=flat-square&color=00bfa6)](https://github.com/ShoumikDutta?tab=followers)
+
+</div>
+
+---
+
+### `shoumik@github ~ $ ./about.sh`
+
+```yaml
+name: Shoumik Dutta
+location: Hamburg, Germany
+education: B.Sc. Information Engineering — HAW Hamburg
+focus:
+  - Business Intelligence & Analytics
+  - Data Engineering & Validation
+  - AI Agents & Workflow Automation
+  - Financial Data Systems
+currently_learning:
+  - Machine Learning
+  - Cloud & Production Data Workflows
+  - German
+```
+
+### `shoumik@github ~ $ ./toolbox.sh`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Power BI](https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=E70488)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Azure](https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+
+</div>
+
+### `shoumik@github ~ $ ./featured_work.sh`
+
+```text
+CRM Data Quality Agent
+└─ FastAPI agent · automated validation · audit trail · Power BI
+
+Financial Data Pipeline
+└─ Python · market and macro data · PostgreSQL · validation · Streamlit
+
+Timesheet Compliance Engine
+└─ rule-based controls · exception monitoring · reporting automation
+
+Trading Strategy Research
+└─ signal generation · paper trading · performance analytics
+```
+
+### `shoumik@github ~ $ ./stats.sh`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShoumikDutta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bfa6&icon_color=00bfa6&text_color=c9d1d9&rank_icon=github" alt="Shoumik's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoumikDutta&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfa6&text_color=c9d1d9&langs_count=6" alt="Shoumik's most-used languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoumikDutta&bg_color=0d1117&color=c9d1d9&line=00bfa6&point=ffffff&area=true&hide_border=true" alt="Shoumik's contribution activity graph" />
+
+</div>
+
+### `shoumik@github ~ $ ./principles.sh`
+
+```text
+$ automate repetitive work
+$ validate before visualizing
+$ make data products understandable
+$ keep learning by building
+```
+
+<div align="center">
+
+### Open to collaborating on data, BI, automation and applied-AI projects.
+
+`status: building • learning • improving`
+
+</div>
