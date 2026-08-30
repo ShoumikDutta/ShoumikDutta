@@ -13,7 +13,7 @@ Building practical systems that turn messy data into reliable decisions.
 
 <div align="center">
 
-![ASCII portrait of Shoumik Dutta](./assets/shoumik-ascii.svg)
+![SHOUMIK terminal ASCII wordmark](./assets/shoumik-wordmark.svg)
 
 </div>
 
