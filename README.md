@@ -11,6 +11,12 @@ Building practical systems that turn messy data into reliable decisions.
 
 </div>
 
+<div align="center">
+
+![ASCII portrait of Shoumik Dutta](./assets/shoumik-ascii.svg)
+
+</div>
+
 ---
 
 ### `shoumik@github ~ $ ./about.sh`
@@ -63,16 +69,15 @@ Trading Strategy Research
 └─ signal generation · paper trading · performance analytics
 ```
 
-### `shoumik@github ~ $ ./stats.sh`
+### `shoumik@github ~ $ ./activity.sh`
 
-<div align="center">
+```text
+PUBLIC WORK      Python · C · JavaScript · data and automation projects
+CURRENT FOCUS    reliable pipelines · applied AI · decision-ready analytics
+BUILD MODE       learn → prototype → validate → improve
+```
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShoumikDutta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bfa6&icon_color=00bfa6&text_color=c9d1d9&rank_icon=github" alt="Shoumik's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoumikDutta&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfa6&text_color=c9d1d9&langs_count=6" alt="Shoumik's most-used languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoumikDutta&bg_color=0d1117&color=c9d1d9&line=00bfa6&point=ffffff&area=true&hide_border=true" alt="Shoumik's contribution activity graph" />
-
-</div>
+[View my repositories](https://github.com/ShoumikDutta?tab=repositories) · [View my contribution history](https://github.com/ShoumikDutta?tab=overview&from=2026-01-01&to=2026-12-31)
 
 ### `shoumik@github ~ $ ./principles.sh`
 
